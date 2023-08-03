@@ -1,10 +1,10 @@
-👋 Hi, I'm @luhring-julian
-👀 Interested in make new friends!
-🌱 I’m currently learning HTML, CSS, JS and UI/UX Design
-👯 I’m looking to collaborate on amazing projects
+## Hello there!
+## Let me introduce to you:
 
-## Let's chat and code!
-
+- 👋 Hi, I'm @luhring-julian
+- 👀 Interested in make new friends!
+- 🌱 I’m currently learning HTML, CSS, JS and UI/UX Design
+- 👯 I’m looking to collaborate on amazing projects
 
 <!--
 ### Hello there! 👋
