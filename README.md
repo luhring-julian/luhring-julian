@@ -1,4 +1,4 @@
-## Hello there!
+# Hello there!
 ## Let me introduce to you:
 
 - 👋 Hi, I'm @luhring-julian
