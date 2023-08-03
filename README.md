@@ -1,6 +1,14 @@
-### Hi there 👋
+👋 Hi, I'm @luhring-julian
+👀 Interested in make new friends!
+🌱 I’m currently learning HTML, CSS, JS and UI/UX Design
+👯 I’m looking to collaborate on amazing projects
+
+## Let's chat and code!
+
 
 <!--
+### Hello there! 👋
+### I'm Julian Luhring @luhring-julian
 **luhring-julian/luhring-julian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
