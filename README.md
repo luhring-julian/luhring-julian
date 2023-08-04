@@ -1,6 +1,6 @@
 - 👋 Hello, I'm @luhring-julian
 - 👀 Interested in make new conections and friends!
-- 🌱 I'm currently learning HTML, CSS, JS and UI/UX Design. Starting studies in Back-End
+- 🌱 I'm currently learning HTML, CSS, JS and UI/UX Design
 - 👯 I’m looking to collaborate on amazing projects
 
 
