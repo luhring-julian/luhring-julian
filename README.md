@@ -1,6 +1,6 @@
 # Julian Luhring
 
-Desenvolvedor Front End | Apaixonado por tecnologia
+Desenvolvedor Front End | Apaixonado por tecnologia <br>
 Front End Developer | Passionate about technology
 
 ## Sobre mim (PT-BR)
