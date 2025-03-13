@@ -1,58 +1,46 @@
-# Julian Luhring
+# 🙋 Hello there! I'm Julian Luhring
 
-Desenvolvedor Front End | Apaixonado por tecnologia <br>
-Front End Developer | Passionate about technology
+## 📝 About me
 
-## Sobre mim (PT-BR)
+- From Porto Alegre, Brazil
+- Currently studying Tecnologia em Sistemas para Internet on UNISINOS
+- I'm working on my portfolio and expand it
+- Passionate about technology
+- Self-taught programmer/developer
+- Front End Developer - HTML, CSS, JavaScript
 
-Sou um desenvolvedor apaixonado por criar soluções inovadoras e impactantes. Minha paixão por tecnologia me impulsiona a aprender e crescer constantemente. Atualmente, na graduação em Tecnologia para Sistemas de Internet pela Unisinos/RS. Busco oportunidades para colaborar em projetos desafiadores e contribuir para a comunidade de desenvolvimento.
+## 💡 Skills ️
 
-## About me (EN)
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Elementor-900090?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
+</p>
 
-I'm a passionate developer driven by the desire to create innovative and impactful solutions. My passion for technology fuels my continuous learning and growth. Currently pursuing a degree in Technology for Internet Systems at Unisinos/RS. I'm eager to collaborate on challenging projects and contribute to the development community.
+## 📊 GitHub Stats
 
-## Habilidades/Skills
+<p align="center">
+  <a href="https://github.com/luhring-julian">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luhring-julian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luhring-julian&langs_count=7&theme=dracula"/> 
+  </a>
+</p>
 
-- HTML5
-- CSS3
-- JavaScript
-- Git
-- Wordpress + Elementor Plugin
+## ✉️ Contact
 
-## Projetos em destaque (PT-BR)
+<p align="left">
+  <a href="https://www.linkedin.com/in/julianluhring/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> 
+  </a>
+  <a href="mailto:luhring.julian@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
-- [Portfolio](https://luhring-julian.github.io/my-portfolio/): Página de divulgação de portfólio, usando HTML, CSS e JavaScript.
-- [Portal FAURGS](http://www.faurgs.com.br): Portal Institucional da FAURGS, criado diretamente em Wordpress + Plugin Elementor.
-<!-- * [Nome do projeto 2](link-para-o-repositório): Descrição breve do projeto.
-- [Nome do projeto 3](link-para-o-repositório): Descrição breve do projeto. -->
+## ✅ Featured Projects
 
-## Featured Projects (EN)
-
-- [Portfolio](https://luhring-julian.github.io/my-portfolio/): Portfolio created to demonstrate my development skills. Uses HTML, CSS and JS.
-- [FAURGS Portal](http://www.faurgs.com.br): Institutional portal of FAURGS, created directly in Wordpress + Elementor Plugin.
-
-## Contato/Contact
-
-- [LinkedIn](https://www.linkedin.com/in/julianluhring/)
-- [E-mail](luhring.julian@gmail.com)
-
-## Curiosidades (PT-BR)
-
-- Adoro café e pizza.
-- Apaixonado por jogos, filmes e séries.
-- Autodidata.
-- Sempre disposto a aprender coisas novas.
-- "A melhor maneira de prever o futuro é inventá-lo." - Alan Kay
-
-## Fun Facts (EN)
-
-- Coffee and pizza lover.
-- Passionate about games, movies, and series.
-- Self-taught.
-- Always eager to learn new things.
-- "The best way to predict the future is to invent it." - Alan Kay
-
-## Atualizações
-
-- [March/2025]: Adicionado novo projeto [Portfolio].
-<!--- [Data]: Atualizado com novas habilidades. -->
+- [Portfolio](https://luhring-julian.github.io/my-portfolio/): Portfolio created to demonstrate my development skills. Uses HTML, CSS and JS. ️
+- [FAURGS Portal](http://www.faurgs.com.br): Institutional portal of FAURGS, created directly in Wordpress + Elementor Plugin. ️
