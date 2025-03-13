@@ -21,12 +21,14 @@ I'm a passionate developer driven by the desire to create innovative and impactf
 
 ## Projetos em destaque (PT-BR)
 
+- [Portfolio](https://luhring-julian.github.io/my-portfolio/): Página de divulgação de portfólio, usando HTML, CSS e JavaScript.
 - [Portal FAURGS](http://www.faurgs.com.br): Portal Institucional da FAURGS, criado diretamente em Wordpress + Plugin Elementor.
 <!-- * [Nome do projeto 2](link-para-o-repositório): Descrição breve do projeto.
 - [Nome do projeto 3](link-para-o-repositório): Descrição breve do projeto. -->
 
 ## Featured Projects (EN)
 
+- [Portfolio](https://luhring-julian.github.io/my-portfolio/): Portfolio created to demonstrate my development skills. Uses HTML, CSS and JS.
 - [FAURGS Portal](http://www.faurgs.com.br): Institutional portal of FAURGS, created directly in Wordpress + Elementor Plugin.
 
 ## Contato/Contact
@@ -50,7 +52,7 @@ I'm a passionate developer driven by the desire to create innovative and impactf
 - Always eager to learn new things.
 - "The best way to predict the future is to invent it." - Alan Kay
 
-<!-- ## Atualizações
+## Atualizações
 
-- [Data]: Adicionado novo projeto [Nome do projeto].
-- [Data]: Atualizado com novas habilidades. -->
+- [March/2025]: Adicionado novo projeto [Portfolio].
+<!--- [Data]: Atualizado com novas habilidades. -->
