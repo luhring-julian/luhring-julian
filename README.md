@@ -24,8 +24,8 @@
 
 <p align="center">
   <a href="https://github.com/luhring-julian">
-    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luhring-julian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luhring-julian&langs_count=7&theme=dracula"/> 
+    <img height="250em" src="https://github-readme-stats.vercel.app/api?username=luhring-julian&show_icons=true&theme=dracula&count_private=true"/>
+    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luhring-julian&langs_count=7&theme=dracula"/> 
   </a>
 </p>
 
