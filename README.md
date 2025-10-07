@@ -1,56 +1,67 @@
-# Julian Luhring
+# 🙋 Olá! Eu sou Julian Luhring
 
-Desenvolvedor Front End | Apaixonado por tecnologia <br>
-Front End Developer | Passionate about technology
+## 📝 Sobre mim
 
-## Sobre mim (PT-BR)
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Tecnologia em Sistemas para internet na UNISINOS/RS.
+- 💼 Buscando colocação profissional.
+- 🌱 Aprendendo mais sobre HTML, CSS, JavaScript, Python e Java.
 
-Sou um desenvolvedor apaixonado por criar soluções inovadoras e impactantes. Minha paixão por tecnologia me impulsiona a aprender e crescer constantemente. Atualmente, na graduação em Tecnologia para Sistemas de Internet pela Unisinos/RS. Busco oportunidades para colaborar em projetos desafiadores e contribuir para a comunidade de desenvolvimento.
+## 💡 Minhas Skills
 
-## About me (EN)
+**Aplicações e dados**
 
-I'm a passionate developer driven by the desire to create innovative and impactful solutions. My passion for technology fuels my continuous learning and growth. Currently pursuing a degree in Technology for Internet Systems at Unisinos/RS. I'm eager to collaborate on challenging projects and contribute to the development community.
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 
-## Habilidades/Skills
+**Blog**
 
-- HTML5
-- CSS3
-- JavaScript
-- Git
-- Wordpress + Elementor Plugin
+[![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)
+[![Elementor](https://img.shields.io/badge/Elementor-900090?logo=elementor&logoColor=white)](#)
 
-## Projetos em destaque (PT-BR)
+**DevOps**
 
-- [Portal FAURGS](http://www.faurgs.com.br): Portal Institucional da FAURGS, criado diretamente em Wordpress + Plugin Elementor.
-<!-- * [Nome do projeto 2](link-para-o-repositório): Descrição breve do projeto.
-- [Nome do projeto 3](link-para-o-repositório): Descrição breve do projeto. -->
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#)
 
-## Featured Projects (EN)
+**Ferramentas de desenvolvimento**
 
-- [FAURGS Portal](http://www.faurgs.com.br): Institutional portal of FAURGS, created directly in Wordpress + Elementor Plugin.
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+[![Behance](https://img.shields.io/badge/Behance-0054F7?logo=behance&logoColor=white)](#)
+[![Unsplash](https://img.shields.io/badge/Unsplash-000000?logo=Unsplash&logoColor=white)](#)
 
-## Contato/Contact
+**Sistemas Operacionais**
 
-- [LinkedIn](https://www.linkedin.com/in/julianluhring/)
-- [E-mail](luhring.julian@gmail.com)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
-## Curiosidades (PT-BR)
+## 📊 GitHub Stats
 
-- Adoro café e pizza.
-- Apaixonado por jogos, filmes e séries.
-- Autodidata.
-- Sempre disposto a aprender coisas novas.
-- "A melhor maneira de prever o futuro é inventá-lo." - Alan Kay
+<table>
+    <tr>
+        <td>
+            <img height="200em" src="https://github-readme-stats.vercel.app/api?username=luhring-julian&show_icons=true&theme=dracula&show=reviews,discussions_started,discussions_answered,prs_merged&count_private=true"/>
+        </td>
+        <td>
+            <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luhring-julian&langs_count=7&theme=dracula"/>
+        </td>
+    </tr>
+</table>
 
-## Fun Facts (EN)
+## ✉️ Onde me encontrar
 
-- Coffee and pizza lover.
-- Passionate about games, movies, and series.
-- Self-taught.
-- Always eager to learn new things.
-- "The best way to predict the future is to invent it." - Alan Kay
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/julianluhring)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:luhring.julian@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/luhring-julian?label=follow&style=social)](https://github.com/luhring-julian)
 
 <!-- ## Atualizações
 
+- 07/10/2025: Atualização completa do arquivo.
 - [Data]: Adicionado novo projeto [Nome do projeto].
 - [Data]: Atualizado com novas habilidades. -->
