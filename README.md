@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # 🙋 Olá! Eu sou Julian Luhring
 
 ## 📝 Sobre mim
