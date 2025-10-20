@@ -1,71 +1,167 @@
-# 🙋 Olá! Eu sou Julian Luhring
+# 👋 Olá! Eu sou Julian Luhring
 
-## 📝 Sobre mim
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9945FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+em+Formação;Tecnol.+em+Sistemas+p/+Internet;Apaixonado+por+Inovação;Sempre+Aprendendo!" alt="Typing SVG" />
+</div>
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Tecnologia em Sistemas para internet na UNISINOS/RS.
-- 💼 Buscando colocação profissional.
-- 🌱 Aprendendo mais sobre HTML, CSS, JavaScript, Python e Java.
+## 👤 Sobre mim
 
-## 💡 Minhas Skills
+Sou um **desenvolvedor em formação** apaixonado por tecnologia e inovação, sempre em busca de novos desafios e oportunidades de crescimento. Atualmente cursando **Tecnologia em Sistemas para Internet** na UNISINOS/RS, com foco em desenvolvimento web e soluções digitais criativas.
 
-**Aplicações e dados**
+- 🔍 **Explorando** novas tecnologias e desenvolvendo soluções inovadoras
+- 🎓 **Estudando** Tecnologia em Sistemas para Internet na UNISINOS/RS
+- 💼 **Buscando** oportunidades para aplicar conhecimentos e crescer profissionalmente
+- 🌱 **Aprimorando** constantemente minhas habilidades em desenvolvimento web e mobile
+- 💡 **Interessado** em projetos colaborativos e de código aberto
 
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+## 🛠️ Stack Tecnológica
 
-**Blog**
+### 💻 Linguagens de Programação
 
-[![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)
-[![Elementor](https://img.shields.io/badge/Elementor-900090?logo=elementor&logoColor=white)](#)
+<div align="center">
+  
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#)
 
-**DevOps**
+</div>
 
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#)
+### 🌐 Desenvolvimento Web & CMS
 
-**Ferramentas de desenvolvimento**
+<div align="center">
+  
+[![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)](#)
+[![Elementor](https://img.shields.io/badge/Elementor-%23900090.svg?style=for-the-badge&logo=elementor&logoColor=white)](#)
 
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
-[![Behance](https://img.shields.io/badge/Behance-0054F7?logo=behance&logoColor=white)](#)
-[![Unsplash](https://img.shields.io/badge/Unsplash-000000?logo=Unsplash&logoColor=white)](#)
+</div>
 
-**Sistemas Operacionais**
+### 🔧 Ferramentas de Desenvolvimento
 
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+<div align="center">
+  
+[![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
+[![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)](#)
+[![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#)
 
-## 📚 Estou Aprendendo/Aprimorando
+</div>
 
-<img load="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /><img load="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/><img load="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+### 🎨 Design & Criatividade
 
-## 📊 GitHub Stats
+<div align="center">
+  
+[![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](#)
+[![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](#)
+[![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)](#)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](#)
 
-<table>
-    <tr>
-        <td>
-            <img height="200em" src="https://github-readme-stats.vercel.app/api?username=luhring-julian&show_icons=true&theme=dracula&show=reviews,discussions_started,discussions_answered,prs_merged&count_private=true"/>
-        </td>
-        <td>
-            <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luhring-julian&langs_count=7&theme=dracula"/>
-        </td>
-    </tr>
-</table>
+</div>
 
-## ✉️ Onde me encontrar
+### ☁️ Hospedagem & Deploy
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/julianluhring)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:luhring.julian@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/luhring-julian?label=follow&style=social)](https://github.com/luhring-julian)
+<div align="center">
+  
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
-<!-- ## Atualizações
+</div>
 
-- 07/10/2025: Atualização completa do arquivo.
-- [Data]: Adicionado novo projeto [Nome do projeto].
-- [Data]: Atualizado com novas habilidades. -->
+### 🖥️ Sistemas Operacionais
+
+<div align="center">
+  
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
+
+</div>
+
+## 📈 Crescimento & Aprendizado
+
+<div align="center">
+  
+> *"O aprendizado contínuo é a base do crescimento profissional"*
+
+</div>
+
+### 🎯 Foco Atual de Estudos
+
+<div align="center">
+  
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=purple)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=purple)](#)
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=purple)](#)
+
+</div>
+
+### 🔜 Próximos Objetivos
+
+- 🚀 **Frameworks Frontend**: React.js, Vue.js
+- 🗄️ **Backend Development**: Node.js, Express.js
+- 📱 **Mobile Development**: React Native
+- 🛢️ **Bancos de Dados**: MySQL, MongoDB
+- ☁️ **Cloud Computing**: AWS, Azure
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luhring-julian&show_icons=true&count_private=true&hide_border=true&title_color=9945FF&icon_color=9945FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luhring-julian&layout=compact&hide_border=true&title_color=9945FF&text_color=c9d1d9&bg_color=0d1117" />
+
+</div>
+
+<div align="center">
+  
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=luhring-julian&background=0d1117&border=9945FF&stroke=9945FF&ring=9945FF&fire=9945FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=9945FF&sideLabels=9945FF&dates=c9d1d9" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luhring-julian&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=9945FF&line=9945FF&point=c9d1d9" alt="GitHub Activity Graph" />
+
+</div>
+
+## 🤝 Vamos Conectar?
+
+<div align="center">
+  
+> *"A colaboração é a chave para a inovação"*
+
+<br>
+
+📧 **Email Profissional**: [luhring.julian@gmail.com](mailto:luhring.julian@gmail.com)
+
+<br>
+
+### 🌐 Redes Sociais & Profissionais
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianluhring)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luhring-julian)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luhring.julian@gmail.com)
+
+<br>
+
+### 💼 Interessado em:
+
+- 🚀 **Oportunidades de estágio/trainee**
+- 💼 **Oportunidades profissionais na área de tecnologia**
+- 🤝 **Projetos colaborativos**
+- 💡 **Networking profissional**
+- 📚 **Mentoria e aprendizado**
+
+</div>
+
+---
+
+<div align="center">
+  
+### ⭐ *Obrigado pela visita! Não esqueça de deixar uma estrela se gostou do meu perfil* ⭐
+
+![Profile Views](https://komarev.com/ghpvc/?username=luhring-julian&color=9945FF&style=for-the-badge)
+
+</div>
